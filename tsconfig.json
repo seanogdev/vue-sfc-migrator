@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "importHelpers": true,
+    "module": "commonjs",
+    "outDir": "lib",
+    "rootDir": "src",
+    "lib": ["ES2020"],
+    "strict": true,
+    "target": "es2017"
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
